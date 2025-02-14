@@ -1,0 +1,112 @@
+{
+  "project_info": {
+    "project_number": "35348409332",
+    "firebase_url": "https://tictact-a37a5-default-rtdb.firebaseio.com",
+    "project_id": "tictact-a37a5",
+    "storage_bucket": "tictact-a37a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35348409332:android:68d698d2fd25d46ed767a1",
+        "android_client_info": {
+          "package_name": "com.appsimplified.xando"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35348409332-5p5d2bb5122s7djlh23q0s8bd4279e3q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appsimplified.xando",
+            "certificate_hash": "732ba5daeedfbb452f9f98754e97c1027a39473d"
+          }
+        },
+        {
+          "client_id": "35348409332-82ucjkcvdiun5af69tactt38avihkao3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appsimplified.xando",
+            "certificate_hash": "46c77d01aca6dc6e2e1f42ba6a9c576a2dcd08d4"
+          }
+        },
+        {
+          "client_id": "35348409332-jicksaakqku3as3mvtrtmsd2dgq9qnq9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appsimplified.xando",
+            "certificate_hash": "090bc57923b9a1eb4952e5577ce2e86337e02778"
+          }
+        },
+        {
+          "client_id": "35348409332-ld3jerbi6vfiu5unfkstdqh2utr1bqml.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appsimplified.xando",
+            "certificate_hash": "9028c3a86eb15ed97219cf86868ec29ebd3f8a90"
+          }
+        },
+        {
+          "client_id": "35348409332-mp4sncmr106qhaqcrankn6via7hbkp0h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appsimplified.xando",
+            "certificate_hash": "cd1c55d7843afe618d5620ca4053e9c4ff6118e9"
+          }
+        },
+        {
+          "client_id": "35348409332-nbr9gv04116ictihfq0rkrkicsj7psvt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appsimplified.xando",
+            "certificate_hash": "c63fa09535ee639c1b4d0c0308b346262584c1cc"
+          }
+        },
+        {
+          "client_id": "35348409332-r3lukl59uvjvn81r75lb4djii9puuucb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appsimplified.xando",
+            "certificate_hash": "e41f6421fbbbcc4860a4035afbb490ba8613d9ed"
+          }
+        },
+        {
+          "client_id": "35348409332-vfqll18rrochcs2mteei61uh7a2772vl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appsimplified.xando",
+            "certificate_hash": "bd1fb9a657f02e994375a3774038cd44b3f0a66f"
+          }
+        },
+        {
+          "client_id": "35348409332-fcmdpaeqqidfl4fdkf1cjaf1fok88mt9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW38ZiAGa5hUUcQ4NqBfDebniS2_aqCjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35348409332-fcmdpaeqqidfl4fdkf1cjaf1fok88mt9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "35348409332-g1ipd95slna60c6ne9cfq49qugq1ub7d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.appsimplified.xando"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-5521230412950397~3160174672"
+    }
+  ],
+  "configuration_version": "1"
+}

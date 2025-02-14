@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "715588473930",
+    "firebase_url": "https://xando-57595-default-rtdb.firebaseio.com",
+    "project_id": "xando-57595",
+    "storage_bucket": "xando-57595.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715588473930:android:1382807db667fe1eae42b3",
+        "android_client_info": {
+          "package_name": "com.appsimplified.xando"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715588473930-i0hte8b5lreamocb4k79ojk266fprc1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7V8DNe5jMl_ygovo-2bFYZqJWd0z0gMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715588473930-i0hte8b5lreamocb4k79ojk266fprc1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
